@@ -1,0 +1,7 @@
+.modal {
+    width: 90%; /* Increase the width */
+    height: 80%; /* Increase the height */
+    max-width: 1000px; /* Optional: set a maximum width */
+    max-height: 800px; /* Optional: set a maximum height */
+    /* ... other styles ... */
+}
